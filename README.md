@@ -53,7 +53,7 @@ The project uses the **GoEmotions dataset**, developed by Google Research.
 The dataset contains Reddit comments annotated with emotions and is suitable for multi-label emotion classification.
 
 ## 🚀 Live Demo
-Try the app here: [https://huggingface.co/spaces/Maha2yadav/explainable-nlp-emotion-classifier]
+Try the app here: [Explainable NLP — Emotion Intelligence Studio](https://huggingface.co/spaces/Maha2yadav/explainable-nlp-emotion-classifier)
 
 ## 🤖 Model
 Fine-tuned DistilBERT weights: [Maha2yadav/goemotions-model](https://huggingface.co/Maha2yadav/goemotions-model)
